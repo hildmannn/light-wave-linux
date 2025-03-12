@@ -12,7 +12,7 @@ LightWave es una distribución basada en Xubuntu 24.04.2 diseñada para ser ráp
 ✅ Inclusión de Chromium y Mousepad como alternativas más ligeras.  
 
 ## 🛠 Instalación  
-1. Descarga la ISO desde este link de Drive: [Releases] https://drive.google.com/drive/folders/1aCl1uWOMNyLOIXxEOfmSmMCg_qLxTp07?usp=sharing
+1. Descarga la ISO desde este link de Drive: https://drive.google.com/drive/folders/1aCl1uWOMNyLOIXxEOfmSmMCg_qLxTp07?usp=sharing
 2. Usa una herramienta como **Rufus** o **Balena Etcher** para grabarla en un USB.  
 3. O tambien puedes usar una herramienta como **Virtual Box**.  
 
