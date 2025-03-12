@@ -19,6 +19,7 @@ LightWave es una distribución basada en Xubuntu 24.04.2 diseñada para ser ráp
 ## 🔧 Personalización realizada  
 - Eliminé software no esencial para reducir el peso del sistema.  
 - Usé la compresión **XZ** para generar una ISO más pequeña.  
-- Optimizaciones en la terminal con `apt remove`, `autoremove` y `clean`.  
+- Optimizaciones en la terminal con `apt remove`, `autoremove` y `clean`.
+- Puedes ver el paso a paso desde este link de Drive: https://drive.google.com/drive/folders/1aCl1uWOMNyLOIXxEOfmSmMCg_qLxTp07?usp=sharing 
 
 📌 **Este proyecto es parte de mi exploración en la personalización de sistemas operativos. Cualquier feedback es bienvenido! 🚀**  
